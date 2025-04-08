@@ -1,1 +1,16 @@
-# devtinder
+ # Devtinder
+- Create a vite plus react app and start it 
+- Remove the uncesscary code
+- install tailwind.js
+- install Daisy UI 
+- Add NavBar Component to App.jsx
+- Create a NavBar seperate Component File
+- Install React Router  dom 
+- Install axios 
+- Cors - install cors in backend  add middleware cnd configartion
+- whenever you're making API call so pass axios  => {withcredentials = true }
+-Install Redux toolkit  reactresdux
+-Add Provider to app.jsx , createSLice
+- Add  redux devtool extension 
+- Login see if your data is coming properly or not
+- Logout page 
